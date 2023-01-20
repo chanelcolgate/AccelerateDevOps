@@ -13,6 +13,7 @@ In Chapter 3 - _Teamwork and Collaborative Development_ we learn how to collabo
    __...__
    afldjaldfjalkdfj
    oiuoqwueehqweu
+   adfadfadfafdadf
 
 4. Modify the following line by removing the letters that do not belong:
 
